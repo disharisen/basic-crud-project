@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-starter-fullstack-node",
+  "name": "basic-crud-project",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -58,7 +58,7 @@
     "node": ">=24.x.x",
     "npm": ">=11.x.x"
   },
-  "author": "Saikat Sardar",
+  "author": "Dishari Sen",
   "license": "MIT",
-  "homepage": "https://github.com/MrSaikatS/nextjs-starter-fullstack-node#readme"
+  "homepage": "https://github.com/disharisen/basic-crud-project"
 }
